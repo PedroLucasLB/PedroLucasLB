@@ -1,4 +1,4 @@
-###👋 Hi There
+<h1>👋 Hi There</h1>
   
 Greetings! I'm a dedicated front-end developer with one year of immersive experience in the field. My expertise spans across Python, JavaScript, TypeScript, and React, 
 allowing me to create engaging and seamless digital solutions. If you're curious about my work, feel free to explore my projects on GitHub by simply scrolling down. 
