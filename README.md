@@ -16,9 +16,6 @@ Let's collaborate and bring your vision to life!
 </a>
 
 <h2>Stats & Stacks</h2>
-<a href="https://github.com/PedroLucasLB/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroLucasLB&theme=chartreuse-dark" />
-</a>
 <a href="https://github.com/PedroLucasLB/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroLucasLB&layout=compact&theme=chartreuse-dark&langs_count=8&card_width=320" />
 </a>
