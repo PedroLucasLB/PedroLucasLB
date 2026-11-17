@@ -43,21 +43,6 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
----
-
-### 📊 Stats & Stacks
-
-<p align="center">
-  <a href="https://github.com/PedroLucasLB">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=PedroLucasLB&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Pedro's GitHub Stats" />
-  </a>
-  <a href="https://github.com/PedroLucasLB">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroLucasLB&layout=compact&theme=chartreuse-dark&langs_count=6&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="left">
